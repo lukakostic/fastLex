@@ -5,6 +5,6 @@ A very small simple but very capable flexible lexer
 
 ![image](https://github.com/lukakostic/fastLex/assets/41348897/78990d99-d4f8-48a0-aad2-231343b2d8a7)
 
-~~~~~~~~~~~~~~~~~~~~ Unsupported
+## Unsupported
 
 Literal numbers starting or ending with a dot: .123 or  1.   , just do 0.123 or 1.0 instead.
