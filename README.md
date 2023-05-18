@@ -8,8 +8,10 @@ Some included operators to demonstrate the lexer:
 ![image](https://github.com/lukakostic/fastLex/assets/41348897/78990d99-d4f8-48a0-aad2-231343b2d8a7)
 
 ## How to use
-
+I build with g++ -std=c++20  but im sure it works for any.
 ```c++
+#include "fastLex.cpp"
+
 fastLex lex;
 lex.__populateCppTokens(); //for example
 lex.init();
