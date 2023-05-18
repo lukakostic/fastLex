@@ -14,3 +14,4 @@ Some included operators to demonstrate the lexer:
 ## Unsupported
 
 - Number literals starting or ending with a dot: `.123` or  `1.` just do `0.123` or `1.0` instead.
+   - will probably be added
